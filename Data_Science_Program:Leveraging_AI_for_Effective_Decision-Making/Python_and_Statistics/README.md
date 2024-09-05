@@ -16,10 +16,9 @@ The module was finalized with the assessed project:
 
 ---
 **Skills and Tools Covered**
-- Python
-  - Jupyter Notebook
-  - Google Colab
-  - numpy, pandas, matplot.lib, seaborn, Plotly
+
+<img src='https://github.com/Gr3Fin/Courses_and_Certificates/blob/main/Data_Science_Program%3ALeveraging_AI_for_Effective_Decision-Making/Python_and_Statistics/images/Skills%20and%20Tools_Python%20and%20Statistics.svg'>
+
 - Satistics
   - Inferential Statistics
   - Binomial, Uniform, Normal Distributions
@@ -32,3 +31,4 @@ The module was finalized with the assessed project:
     - propotions (Z-test),
     - variances (Chi-Square test, F-test),
     - frequencies (Chi-Square Test of Independence)
+
