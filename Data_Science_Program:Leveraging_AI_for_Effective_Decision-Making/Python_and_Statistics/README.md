@@ -17,4 +17,6 @@ The module was finalized with the assessed project:
 ---
 **Skills and Tools Covered**
 
-<img src='https://github.com/Gr3Fin/Courses_and_Certificates/blob/main/Data_Science_Program%3ALeveraging_AI_for_Effective_Decision-Making/Python_and_Statistics/images/Skills%20and%20Tools_Python%20and%20Statistics.svg'>
+<p align='center'>
+<img src='https://github.com/Gr3Fin/Courses_and_Certificates/blob/main/Data_Science_Program%3ALeveraging_AI_for_Effective_Decision-Making/images/Skills%20and%20Tools_Python%20and%20Statistics.svg'>
+</p>
