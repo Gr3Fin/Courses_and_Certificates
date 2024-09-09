@@ -10,20 +10,11 @@ This module comprised the following modules:
 ---
 
 **Skills and Tools Covered**
-- Continuous and Categorical variables
-- Dependent and Independent Variables
-- Variance and Standard Deviation
-- Confidence Interval
-- Linear Regression
-  - Maximum Likelihood
-  - Empirical Risk Minimization
+<p align='center'>
+<img src=https://github.com/Gr3Fin/Courses_and_Certificates/blob/main/Data_Science_Program%3ALeveraging_AI_for_Effective_Decision-Making/images/Skills%20and%20Tools-Machine%20Learning_Basic_CV.svg>
+</p>
+<p align='center'>
+<img src=https://github.com/Gr3Fin/Courses_and_Certificates/blob/main/Data_Science_Program%3ALeveraging_AI_for_Effective_Decision-Making/images/Skills%20and%20Tools-Machine%20Learning_LR_CL.svg>
+</p>
 
-- Bootstrappinge
-- Bias-Variance trade-off
-- Regularization
-  - Ridge Regression
-  - Lasso Regression
-- Cross-validation
-  - K-fold
-  - 
-
+**Libraries**
