@@ -20,5 +20,5 @@ This module comprised the following modules:
 **Libraries**
 
 <p align='center'>
-<img src=https://github.com/Gr3Fin/Courses_and_Certificates/blob/main/Data_Science_Program%3ALeveraging_AI_for_Effective_Decision-Making/images/Skills%20and%20Tools-Machine%20Learning_libraries.svg>
+<img https://github.com/Gr3Fin/Courses_and_Certificates/blob/main/Data_Science_Program%3ALeveraging_AI_for_Effective_Decision-Making/images/Skills%20and%20Tools-Machine%20Learning_libraries.svg>
 </p>
