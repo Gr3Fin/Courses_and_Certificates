@@ -3,8 +3,8 @@
 <p align='justify'>
 A four-day intensive project focused on developing knowledge of Tableau, using the Oscar movie dataset from 2001 onward.
 
-The created dashboard is published 
-<a href='https://public.tableau.com/app/profile/grzegorz.finke/viz/Movies_analisis/Moviesanalysis?publish=yes'>here.</a>
+The created dashboard is published on
+<a href='https://public.tableau.com/app/profile/grzegorz.finke/viz/Movies_analisis/Moviesanalysis?publish=yes'>Tableau Public.</a>
 </p>
 
 ---
@@ -18,8 +18,8 @@ The created dashboard is published
 ---
 **Dashboard snippet**
 
-<div style="text-align: right;" >
+<div align='center'>
     <a href="https://public.tableau.com/app/profile/grzegorz.finke/viz/Movies_analisis/Moviesanalysis?publish=yes" title="Tableau Public">
-    <img src="./assets/images/Tableau_movies_s.jpg" style="display: block; width: 75%; margin-left: 50%;">
+    <img src="https://github.com/Gr3Fin/Courses_and_Certificates/blob/main/DA_Marathon_with_Tableau/images/Tableau_movies.JPG" style="display: block; width: 75%; margin-left: 50%;">
     </a>
 </div>
