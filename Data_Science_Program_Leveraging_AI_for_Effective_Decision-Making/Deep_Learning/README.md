@@ -10,12 +10,12 @@
 **Skills and Tools Covered**
 
 <p align='center'>
-  <img src='https://github.com/Gr3Fin/Courses_and_Certificates/blob/main/Data_Science_Program_Leveraging_AI_for_Effective_Decision-Making/images/Skills%20and%20Tools-DA%20and%20Visualization.svg'>
+  <img src='https://github.com/Gr3Fin/Courses_and_Certificates/blob/main/Data_Science_Program_Leveraging_AI_for_Effective_Decision-Making/images/Skills%20and%20Tools-Deep%20Learning_skills.svg'>
 </p>
 
 ---
 **Libraries**
 
 <p align='center'>
-  <img src='https://github.com/Gr3Fin/Courses_and_Certificates/blob/main/Data_Science_Program_Leveraging_AI_for_Effective_Decision-Making/images/Skills%20and%20Tools-DA%20and%20Visualization_Tools2.svg'>
+  <img src='https://github.com/Gr3Fin/Courses_and_Certificates/blob/main/Data_Science_Program_Leveraging_AI_for_Effective_Decision-Making/images/Skills%20and%20Tools-Deep%20Learning_libraries.svg'>
 </p>
