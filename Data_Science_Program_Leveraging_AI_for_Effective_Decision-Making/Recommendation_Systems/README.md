@@ -1,6 +1,6 @@
-### Recommendation Systems
+# Recommendation Systems
 
-This module comprised the following modules:
+**This module comprised the following modules:**
 - Content-based Filtering
 - Clustering-based Recommendation Systems
 - Collaborative Filtering
@@ -12,7 +12,7 @@ This module comprised the following modules:
   - Truncated SVD
 - Matrix Estimation meets Content-based
 - Matrix Estimation across time
-
+---
 **Libraries**
 - defaultdict (collections)
 - Reader (surprise.reader)
