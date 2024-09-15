@@ -1,6 +1,6 @@
-### Data Analyst Skill Path
+# Data Analyst Skill Path
 
-The course coprised the following modules:
+**The course coprised the following modules:**
 - Excel
 - SQL
 - Python
@@ -8,7 +8,7 @@ The course coprised the following modules:
 
 <h3>Excel:</h3> 
   <p align='justify'>
-    In this module I refined my skills by organizing and manipulating data sets.
+    <blockquote>In this module I refined my skills by organizing and manipulating data sets.</blockquote>
   </p>
   
   <b>Skills and Tools Covered:</b>
@@ -42,7 +42,7 @@ The course coprised the following modules:
   
 <h3>SQL:</h3>
   <p align='justify'>
-    In this part I delved into both fundamental and advanced concepts.
+    <blockquote>In this part I delved into both fundamental and advanced concepts.</blockquote>
   </p>
  <b>Skills and Tools Covered:</b>
    <ul>
@@ -55,7 +55,7 @@ The course coprised the following modules:
   
 <h3>Python:</h3> 
   <p align='justify'>
-    This segment of the course provided comprehensive knowledge from data acquisition to advanced analysis techniques.
+    <blockquote>This segment of the course provided comprehensive knowledge from data acquisition to advanced analysis techniques.</blockquote>
   </p>
   
   <b>Skills and Tools Covered:</b>
@@ -105,3 +105,4 @@ The course coprised the following modules:
         </ul>
       </td>
   </table>
+  ---
