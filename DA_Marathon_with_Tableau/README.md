@@ -1,12 +1,10 @@
 # Data Analyst Marathon with Tableau
 
 <p align='justify'>
-    <blockquote>
     A four-day intensive project focused on developing knowledge of Tableau, using the Oscar movie dataset from 2001 onward.
     <br><br>
     The created dashboard is published on
     <a href='https://public.tableau.com/app/profile/grzegorz.finke/viz/Movies_analisis/Moviesanalysis?publish=yes'>Tableau Public.</a>
-    </blockquote>
 </p>
 
 ---
