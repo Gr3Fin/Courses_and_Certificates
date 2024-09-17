@@ -7,10 +7,17 @@
   
 ---
 **This module comprised the following modules:**
+- The Basic of Recommendation Systems
+- Matrix
+- Tensors
+- Neural Networks for Recommendation Systems
+
+---
+**Skills and Tools Covered:**
 
 <table>
   <tr>
-    <th>Intro to Recommendation Systems</th>
+    <th>The Basics of Recommendation Systems</th>
     <th>Matrix</th>
     <th>Tensor, NN for Recommendation Systems </th>
   </tr>
