@@ -26,6 +26,7 @@
           <li>Data validation, </li>
           <li>Data import, </li>
           <li>Power query</li>
+          <li>Macros</li>
         </ul>
       </td>
       <td>
@@ -45,14 +46,61 @@
     <blockquote>In this part I delved into both fundamental and advanced concepts.</blockquote>
   </p>
  <b>Skills and Tools Covered:</b>
-   <ul>
-     <li>Table and data organization,</li>
-     <li>Subqueries,</li>
-     <li>Joins,</li>
-     <li>Data Aggregation,</li> 
-     <li>Pattern Matching</li>
-   </ul>
-  
+ <table>
+   <tr>
+     <th>Basics of Data Management:</th>
+     <th>SQL Fundamentals:</th>
+     <th>Retreiving Valuable Infromation:</th>
+     <th>Avanced Concepts:</th>
+     <th>SQL Functions:</th>
+   </tr>
+   <tr valign='top'>
+     <td>
+       <ul>
+         <li>SQL Basics</li>
+         <li>Database Basic</li>
+         <li>SQL Queries</li>
+       </ul>
+     </td>
+     <td>
+       <ul>
+         <li>Create a Database</li>
+         <li>Create Tables within the Database</li>
+         <li>Add Data to a Table</li>
+         <li>Data Manipulation</li>
+       </ul>
+     </td>
+     <td>
+        <ul>
+         <li>Filtering and Sorting</li>
+         <li>Conditional Statement</li>
+         <li>Data Aggregation</li>
+         <li>Data Grouping</li>
+         <li>Data Manipulation</li>
+       </ul>
+     </td>
+     <td>
+      <ul>
+        <li>Joins</li>
+        <li>Except and Union</li>
+        <li>Subqueries</li>
+        <li>Views</li>
+        <li>Indexes</li>
+      </ul>
+     </td>
+     <td>
+      <ul>
+        <li>String Functions</li>
+        <li>Mathematical Functions</li>
+        <li>Date-Time Functions</li>
+        <li>Window Functions</li>
+        <li>Conversion Functions</li>
+        <li>Pattern Matching</li>
+      </ul>
+     </td>
+   </tr>
+ </table>
+ 
 <h3>Python:</h3> 
   <p align='justify'>
     <blockquote>This segment of the course provided comprehensive knowledge from data acquisition to advanced analysis techniques.</blockquote>
