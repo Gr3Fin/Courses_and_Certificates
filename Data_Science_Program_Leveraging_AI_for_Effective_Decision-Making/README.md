@@ -19,4 +19,5 @@
 -  Machine Learning
 -  Practical Data Science
 -  Deep Learning
--  Recommendation System 
+-  Recommendation System
+-  Generative AI
