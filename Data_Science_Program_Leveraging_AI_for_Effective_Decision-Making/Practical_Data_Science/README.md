@@ -1,5 +1,11 @@
 # Parctical Data Science
+<p align='justify'>
+  <blockquote>
+    The primary goal of this course was to understand the working and application of tree-based algorithms like Decision Trees        and Random Forests to solve Data Science problems. Additionally, the course focused on common forecasting algorithms used to      solve Time Series problems.
+  </blockquote>
+</p>
 
+---
 **This module comprised the following modules:**
 - Decision Trees
   - Entropy
