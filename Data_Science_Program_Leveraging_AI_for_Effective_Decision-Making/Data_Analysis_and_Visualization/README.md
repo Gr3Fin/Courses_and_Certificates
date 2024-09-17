@@ -1,5 +1,11 @@
 # Data Analysis and Visualization
+<p align='justify'>
+  <blockquote>
+    The primary goal of this course was to understand various data exploration and data projection techniques, learn about the        problem domains where network theory and ideas such as network centrality find use, and understand how and where to apply         clustering algorithms from unsupervised learning.
+  </blockquote>
+</p>
 
+---
 <p align='justify'>
   <b>This module comprised the following modules:</b>
 </p>
