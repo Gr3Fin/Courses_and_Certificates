@@ -1,5 +1,11 @@
 # Deep Learning
+<p align='justify'>
+  <blockquote>
+    The primary goal of this course is to understand various concepts involved in Deep Learning, learn about the problems where       Feed-Forward, Convolutional Neural Networks, and Transformers find use, and understand how and where to apply these deep          learning algorithms.
+  </blockquote>
+</p>
 
+---
 **This module comprised the following modules:**
 - Artificial Neural Networks
 - Convolutional Networks
