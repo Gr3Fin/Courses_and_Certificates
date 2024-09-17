@@ -9,11 +9,10 @@
 
 ---
 **Skills and Tools Covered:**
-- Organizational Structure
-- Practical Applications
+- Tableau Structure
 - Crafting Compelling Visualizations
 - Constructing Dashboards
-- Utilization of filters, metrics, calculation fields, and custom formulas
+- Filters, Metrics, Calculation Fields, and Custom Formulas
 
 ---
 **Dashboard snippet**
