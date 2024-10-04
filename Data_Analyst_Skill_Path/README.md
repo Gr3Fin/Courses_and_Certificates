@@ -2,7 +2,7 @@
 
 **The course coprised the following modules:**
 - Excel
-- SQL
+- SQL (PostgreSQL)
 - Python
 ---
 
